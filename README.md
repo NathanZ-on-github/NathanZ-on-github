@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games like Retro Bowl and Slope
 - 🌱 I’m currently learning how to code in general
 - 💞️ I’m looking to collaborate on making games
-- 📫 How to reach me by commenting
+- 📫 You can reach me by commenting
 
 <!---
 NathanZ-on-github/NathanZ-on-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
